@@ -1,4 +1,4 @@
-package com.versusmind.barwave;
+package com.lebzul.barwave;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.versusmind.navigationbarwave", appContext.getPackageName());
+        assertEquals("com.lebzul.barwave", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.versusmind.barwave;
+package com.lebzul.barwave;
 
 import org.junit.Test;
 

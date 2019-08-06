@@ -1,4 +1,4 @@
-package com.versusmind.barwave.barwave;
+package com.lebzul.barwave.barwave;
 
 import android.animation.ValueAnimator;
 import android.content.Context;
@@ -13,7 +13,7 @@ import android.support.v7.widget.RecyclerView;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.versusmind.barwave.barwave.item.SpacesItemDecoration;
+import com.lebzul.barwave.barwave.item.SpacesItemDecoration;
 
 
 public class BarWave extends View {

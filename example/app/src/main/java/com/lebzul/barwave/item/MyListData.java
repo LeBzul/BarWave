@@ -1,4 +1,4 @@
-package com.versusmind.barwave.item;
+package com.lebzul.barwave.item;
 
 public class MyListData{
     private String description;

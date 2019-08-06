@@ -1,4 +1,4 @@
-package com.versusmind.barwave.barwave.item;
+package com.lebzul.barwave.barwave.item;
 
 import android.graphics.Rect;
 import android.support.v7.widget.RecyclerView;

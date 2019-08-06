@@ -1,4 +1,4 @@
-package com.versusmind.barwave.item;
+package com.lebzul.barwave.item;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -9,7 +9,8 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.versusmind.barwave.R;
+import com.lebzul.barwave.R;
+
 
 public class MyListAdapter extends RecyclerView.Adapter<MyListAdapter.ViewHolder>{
     private MyListData[] listdata;
